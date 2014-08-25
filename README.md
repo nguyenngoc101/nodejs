@@ -15,6 +15,7 @@ Nodejs
 - Commonly used for real-time applications due to its asynchronous nature.
 
 - Perfect for data-intensive real-time applications that run across distributed devices
+
 ### How?
 
 -  Node.js internally uses the Google V8 JavaScript engine to execute code, and a large percentage of the basic modules are written in JavaScript
